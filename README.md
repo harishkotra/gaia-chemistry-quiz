@@ -4,7 +4,7 @@ This Node.js application runs a timed chemistry quiz based on a set of predefine
 
 ## Features
 
-- Randomly selects 10 questions from a pool of chemistry questions
+- Randomly selects 10 questions from a pool of chemistry questions generated from the [chemistry Gaia node](https://chemistry.us.gaianet.network)
 - 10-second timer for each question
 - 5 points awarded for correct answers, 0 for incorrect answers
 - No ability to return to previous questions
