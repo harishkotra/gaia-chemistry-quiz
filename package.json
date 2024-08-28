@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node quiz.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harish Kotra",
   "license": "ISC",
   "description": "",
   "devDependencies": {
