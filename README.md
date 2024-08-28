@@ -5,6 +5,7 @@ This Node.js application runs a timed chemistry quiz based on a set of predefine
 ## Features
 
 - Randomly selects 10 questions from a pool of chemistry questions generated from the [chemistry Gaia node](https://chemistry.us.gaianet.network)
+- ![image](https://github.com/user-attachments/assets/2e9f7bee-35a6-409c-906a-c6e991f9d0ca)
 - 10-second timer for each question
 - 5 points awarded for correct answers, 0 for incorrect answers
 - No ability to return to previous questions
@@ -17,8 +18,8 @@ This Node.js application runs a timed chemistry quiz based on a set of predefine
 
 ## Setup
 
-1. Save the provided JavaScript code in a file named `quiz.js`.
-2. Ensure `quiz_data.json` is in the same directory as `quiz.js`.
+1. Save the provided JavaScript code in a file named `index.js`.
+2. Ensure `quiz_data.json` is in the same directory as `index.js`.
 
 ## Running the Application
 
